@@ -67,7 +67,7 @@ Value 1: `98849751`
 Parameter 2 : `data`  
 Value 2: 
  ```json
-{"prod_year": 2010, "price_usd": 6000,}
+{"prod_year": 2010, "price_usd": 6000}
 ``` 
 Response:  
 ```json
